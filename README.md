@@ -6,4 +6,4 @@ snippets:
 
 rafc -> Crea un funcional component con importaciones de react
 
-capitulo: seccion 6 capitulo 7
+capitulo: seccion 6 capitulo 10
