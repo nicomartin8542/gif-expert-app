@@ -1,6 +1,7 @@
-API de gifs
+Claves para archivo env:
 
-qLeFfKKz6WKS6bEzWhDq15P2CDqVukte
+REACT_APP_API_KEY = qLeFfKKz6WKS6bEzWhDq15P2CDqVukte
+REACT_APP_BASE_URL = https://api.giphy.com/v1/gifs
 
 snippets:
 
